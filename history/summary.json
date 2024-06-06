@@ -1,5 +1,41 @@
 [
   {
+    "name": "M4L Portal",
+    "url": "https://portal.momsforliberty.org/accounts/login/",
+    "icon": "https://icons.duckduckgo.com/ip3/portal.momsforliberty.org.ico",
+    "slug": "m4-l-portal",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 488,
+    "timeDay": 488,
+    "timeWeek": 488,
+    "timeMonth": 488,
+    "timeYear": 488,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "M4L WP",
+    "url": "https://momsforliberty.org/donate-now/",
+    "icon": "https://icons.duckduckgo.com/ip3/momsforliberty.org.ico",
+    "slug": "m4-l-wp",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 812,
+    "timeDay": 812,
+    "timeWeek": 812,
+    "timeMonth": 812,
+    "timeYear": 812,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "M4L Staging",
     "url": "https://staging.momsforliberty.org",
     "icon": "https://icons.duckduckgo.com/ip3/staging.momsforliberty.org.ico",
@@ -10,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 720,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "time": 483,
+    "timeDay": 483,
+    "timeWeek": 483,
+    "timeMonth": 483,
+    "timeYear": 483,
     "dailyMinutesDown": {}
   }
 ]
