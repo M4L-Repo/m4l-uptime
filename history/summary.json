@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.momsforliberty.org.ico",
     "slug": "m4-l-portal",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 891,
-    "timeDay": 2122,
-    "timeWeek": 1250,
-    "timeMonth": 891,
-    "timeYear": 891,
-    "dailyMinutesDown": {
-      "2024-07-06": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 887,
+    "timeDay": 2111,
+    "timeWeek": 1276,
+    "timeMonth": 928,
+    "timeYear": 887,
+    "dailyMinutesDown": {}
   },
   {
     "name": "M4L WP",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3860,
-    "timeDay": 1431,
-    "timeWeek": 3368,
-    "timeMonth": 3860,
-    "timeYear": 3860,
+    "time": 3799,
+    "timeDay": 1576,
+    "timeWeek": 3210,
+    "timeMonth": 4102,
+    "timeYear": 3799,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 1079,
-    "timeWeek": 676,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "time": 427,
+    "timeDay": 974,
+    "timeWeek": 778,
+    "timeMonth": 446,
+    "timeYear": 427,
     "dailyMinutesDown": {}
   }
 ]
