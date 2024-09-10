@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 765,
-    "timeDay": 498,
-    "timeWeek": 707,
+    "time": 762,
+    "timeDay": 467,
+    "timeWeek": 672,
     "timeMonth": 700,
-    "timeYear": 765,
+    "timeYear": 762,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/momsforliberty.org.ico",
     "slug": "m4-l-wp",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 2388,
-    "timeDay": 1131,
-    "timeWeek": 1407,
-    "timeMonth": 1490,
-    "timeYear": 2388,
-    "dailyMinutesDown": {
-      "2024-09-09": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2382,
+    "timeDay": 1255,
+    "timeWeek": 1434,
+    "timeMonth": 1496,
+    "timeYear": 2382,
+    "dailyMinutesDown": {}
   },
   {
     "name": "M4L Staging",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 537,
-    "timeDay": 271,
-    "timeWeek": 197,
-    "timeMonth": 460,
-    "timeYear": 537,
+    "time": 534,
+    "timeDay": 208,
+    "timeWeek": 203,
+    "timeMonth": 423,
+    "timeYear": 534,
     "dailyMinutesDown": {}
   }
 ]
