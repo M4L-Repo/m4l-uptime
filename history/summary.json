@@ -22,18 +22,20 @@
     "url": "https://momsforliberty.org/donate-now/",
     "icon": "https://icons.duckduckgo.com/ip3/momsforliberty.org.ico",
     "slug": "m4-l-wp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2289,
-    "timeDay": 1262,
-    "timeWeek": 1388,
-    "timeMonth": 1465,
-    "timeYear": 2289,
-    "dailyMinutesDown": {}
+    "time": 2271,
+    "timeDay": 784,
+    "timeWeek": 1280,
+    "timeMonth": 1430,
+    "timeYear": 2271,
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   },
   {
     "name": "M4L Staging",
