@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 339,
-    "timeWeek": 632,
-    "timeMonth": 682,
-    "timeYear": 745,
+    "time": 746,
+    "timeDay": 858,
+    "timeWeek": 644,
+    "timeMonth": 680,
+    "timeYear": 746,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "m4-l-wp",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2206,
-    "timeDay": 1146,
-    "timeWeek": 1494,
-    "timeMonth": 1430,
-    "timeYear": 2206,
-    "dailyMinutesDown": {
-      "2024-09-26": 8
-    }
+    "time": 2203,
+    "timeDay": 1318,
+    "timeWeek": 1517,
+    "timeMonth": 1441,
+    "timeYear": 2203,
+    "dailyMinutesDown": {}
   },
   {
     "name": "M4L Staging",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 504,
-    "timeDay": 170,
-    "timeWeek": 309,
-    "timeMonth": 284,
-    "timeYear": 504,
+    "time": 501,
+    "timeDay": 143,
+    "timeWeek": 290,
+    "timeMonth": 278,
+    "timeYear": 501,
     "dailyMinutesDown": {}
   }
 ]
