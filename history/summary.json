@@ -4,19 +4,19 @@
     "url": "https://portal.momsforliberty.org/accounts/login/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.momsforliberty.org.ico",
     "slug": "m4-l-portal",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "91.40%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.93%",
-    "time": 725,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "90.94%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.92%",
+    "time": 724,
     "timeDay": 601,
     "timeWeek": 597,
     "timeMonth": 633,
-    "timeYear": 725,
+    "timeYear": 724,
     "dailyMinutesDown": {
-      "2024-10-01": 124
+      "2024-10-01": 131
     }
   },
   {
