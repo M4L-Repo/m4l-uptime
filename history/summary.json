@@ -6,18 +6,16 @@
     "slug": "m4-l-portal",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 731,
-    "timeDay": 497,
-    "timeWeek": 515,
-    "timeMonth": 626,
-    "timeYear": 731,
-    "dailyMinutesDown": {
-      "2024-09-30": 6
-    }
+    "time": 733,
+    "timeDay": 554,
+    "timeWeek": 572,
+    "timeMonth": 635,
+    "timeYear": 733,
+    "dailyMinutesDown": {}
   },
   {
     "name": "M4L WP",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2183,
-    "timeDay": 1345,
-    "timeWeek": 1435,
-    "timeMonth": 1426,
-    "timeYear": 2183,
+    "time": 2181,
+    "timeDay": 1953,
+    "timeWeek": 1437,
+    "timeMonth": 1440,
+    "timeYear": 2181,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 495,
-    "timeDay": 238,
-    "timeWeek": 310,
-    "timeMonth": 277,
-    "timeYear": 495,
+    "time": 491,
+    "timeDay": 113,
+    "timeWeek": 181,
+    "timeMonth": 271,
+    "timeYear": 491,
     "dailyMinutesDown": {}
   }
 ]
