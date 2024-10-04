@@ -24,19 +24,19 @@
     "url": "https://momsforliberty.org/donate-now/",
     "icon": "https://icons.duckduckgo.com/ip3/momsforliberty.org.ico",
     "slug": "m4-l-wp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2168,
-    "timeDay": 1398,
-    "timeWeek": 1559,
-    "timeMonth": 1458,
-    "timeYear": 2168,
+    "time": 2165,
+    "timeDay": 1589,
+    "timeWeek": 1587,
+    "timeMonth": 1466,
+    "timeYear": 2165,
     "dailyMinutesDown": {
-      "2024-10-04": 1
+      "2024-10-04": 5
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://staging.momsforliberty.org",
     "icon": "https://icons.duckduckgo.com/ip3/staging.momsforliberty.org.ico",
     "slug": "m4-l-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 239,
-    "timeWeek": 225,
-    "timeMonth": 273,
-    "timeYear": 485,
+    "time": 490,
+    "timeDay": 653,
+    "timeWeek": 330,
+    "timeMonth": 298,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2024-10-04": 0
+      "2024-10-04": 4
     }
   }
 ]
