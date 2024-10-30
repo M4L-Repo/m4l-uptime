@@ -1,7 +1,7 @@
 url: https://portal.momsforliberty.org/accounts/login/
-status: down
-code: 502
-responseTime: 306
-lastUpdated: 2024-10-30T14:45:49.415Z
+status: up
+code: 200
+responseTime: 911
+lastUpdated: 2024-10-30T14:51:08.351Z
 startTime: 2024-06-06T21:38:59.300Z
 generator: Upptime <https://github.com/upptime/upptime>
