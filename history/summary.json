@@ -24,19 +24,20 @@
     "url": "https://momsforliberty.org/donate-now/",
     "icon": "https://icons.duckduckgo.com/ip3/momsforliberty.org.ico",
     "slug": "m4-l-wp",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 2081,
-    "timeDay": 4787,
-    "timeWeek": 2450,
-    "timeMonth": 1843,
-    "timeYear": 2081,
+    "time": 2078,
+    "timeDay": 3720,
+    "timeWeek": 2354,
+    "timeMonth": 1835,
+    "timeYear": 2078,
     "dailyMinutesDown": {
-      "2024-11-13": 0
+      "2024-11-14": 3,
+      "2024-11-13": 3
     }
   },
   {
