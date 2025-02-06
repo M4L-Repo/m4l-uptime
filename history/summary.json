@@ -6,9 +6,9 @@
     "slug": "m4-l-portal",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 796,
     "timeDay": 837,
@@ -16,7 +16,7 @@
     "timeMonth": 1293,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2025-02-06": 3,
+      "2025-02-06": 7,
       "2024-10-01": 124
     }
   },
@@ -27,9 +27,9 @@
     "slug": "m4-l-wp",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 2007,
     "timeDay": 1731,
@@ -37,7 +37,7 @@
     "timeMonth": 1908,
     "timeYear": 2007,
     "dailyMinutesDown": {
-      "2025-02-06": 2
+      "2025-02-06": 5
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://staging.momsforliberty.org",
     "icon": "https://icons.duckduckgo.com/ip3/staging.momsforliberty.org.ico",
     "slug": "m4-l-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 421,
-    "timeWeek": 410,
-    "timeMonth": 359,
-    "timeYear": 393,
+    "time": 440,
+    "timeDay": 6192,
+    "timeWeek": 1854,
+    "timeMonth": 721,
+    "timeYear": 440,
     "dailyMinutesDown": {
-      "2025-02-06": 0
+      "2025-02-06": 4
     }
   }
 ]
