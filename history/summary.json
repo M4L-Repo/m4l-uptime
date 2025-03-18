@@ -44,19 +44,19 @@
     "url": "https://staging.momsforliberty.org",
     "icon": "https://icons.duckduckgo.com/ip3/staging.momsforliberty.org.ico",
     "slug": "m4-l-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 456,
-    "timeDay": 937,
-    "timeWeek": 638,
-    "timeMonth": 606,
-    "timeYear": 456,
+    "time": 459,
+    "timeDay": 982,
+    "timeWeek": 685,
+    "timeMonth": 623,
+    "timeYear": 459,
     "dailyMinutesDown": {
-      "2025-03-18": 0
+      "2025-03-18": 9
     }
   }
 ]
