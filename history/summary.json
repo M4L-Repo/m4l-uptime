@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 794,
-    "timeDay": 831,
-    "timeWeek": 674,
-    "timeMonth": 785,
+    "timeDay": 558,
+    "timeWeek": 677,
+    "timeMonth": 773,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2024-10-01": 124
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2078,
-    "timeDay": 2081,
-    "timeWeek": 1909,
-    "timeMonth": 2656,
+    "timeDay": 2072,
+    "timeWeek": 1905,
+    "timeMonth": 2666,
     "timeYear": 2078,
     "dailyMinutesDown": {
       "2025-02-07": 17
@@ -46,17 +46,15 @@
     "slug": "m4-l-staging",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 459,
-    "timeDay": 982,
-    "timeWeek": 685,
-    "timeMonth": 623,
+    "timeDay": 562,
+    "timeWeek": 678,
+    "timeMonth": 625,
     "timeYear": 459,
-    "dailyMinutesDown": {
-      "2025-03-18": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
