@@ -6,17 +6,16 @@
     "slug": "m4-l-portal",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 823,
-    "timeDay": 3152,
-    "timeWeek": 1564,
-    "timeMonth": 1063,
+    "timeDay": 3123,
+    "timeWeek": 1560,
+    "timeMonth": 1075,
     "timeYear": 823,
     "dailyMinutesDown": {
-      "2025-04-15": 5,
       "2024-10-01": 124
     }
   },
@@ -31,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2152,
-    "timeDay": 1982,
-    "timeWeek": 2216,
-    "timeMonth": 2811,
-    "timeYear": 2152,
+    "time": 2151,
+    "timeDay": 1794,
+    "timeWeek": 2173,
+    "timeMonth": 2810,
+    "timeYear": 2151,
     "dailyMinutesDown": {
       "2025-02-07": 17
     }
@@ -51,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 433,
-    "timeWeek": 420,
-    "timeMonth": 480,
-    "timeYear": 453,
+    "time": 452,
+    "timeDay": 176,
+    "timeWeek": 398,
+    "timeMonth": 472,
+    "timeYear": 452,
     "dailyMinutesDown": {}
   }
 ]
