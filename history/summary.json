@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 824,
-    "timeDay": 687,
-    "timeWeek": 855,
-    "timeMonth": 1049,
-    "timeYear": 824,
+    "time": 823,
+    "timeDay": 571,
+    "timeWeek": 845,
+    "timeMonth": 1039,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2024-10-01": 124
     }
@@ -25,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/momsforliberty.org.ico",
     "slug": "m4-l-wp",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2155,
-    "timeDay": 1816,
-    "timeWeek": 2140,
-    "timeMonth": 2908,
+    "timeDay": 1730,
+    "timeWeek": 2107,
+    "timeMonth": 2912,
     "timeYear": 2155,
     "dailyMinutesDown": {
-      "2025-04-29": 9,
       "2025-02-07": 17
     }
   },
@@ -52,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 451,
-    "timeDay": 329,
-    "timeWeek": 428,
-    "timeMonth": 417,
+    "timeDay": 415,
+    "timeWeek": 427,
+    "timeMonth": 419,
     "timeYear": 451,
     "dailyMinutesDown": {}
   }
