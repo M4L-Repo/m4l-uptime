@@ -46,17 +46,17 @@
     "slug": "m4-l-staging",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 455,
+    "time": 454,
     "timeDay": 308,
     "timeWeek": 593,
     "timeMonth": 466,
-    "timeYear": 455,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2025-05-06": 0
+      "2025-05-06": 5
     }
   }
 ]
