@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 2154,
     "timeDay": 2240,
-    "timeWeek": 1947,
+    "timeWeek": 2072,
     "timeMonth": 2183,
     "timeYear": 2154,
     "dailyMinutesDown": {
@@ -44,17 +44,19 @@
     "url": "https://staging.momsforliberty.org",
     "icon": "https://icons.duckduckgo.com/ip3/staging.momsforliberty.org.ico",
     "slug": "m4-l-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 282,
-    "timeWeek": 630,
-    "timeMonth": 470,
+    "timeDay": 308,
+    "timeWeek": 593,
+    "timeMonth": 466,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-06": 0
+    }
   }
 ]
