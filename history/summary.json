@@ -6,14 +6,14 @@
     "slug": "m4-l-portal",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "94.72%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
     "time": 824,
-    "timeDay": 878,
-    "timeWeek": 832,
-    "timeMonth": 777,
+    "timeDay": 936,
+    "timeWeek": 875,
+    "timeMonth": 791,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2025-06-26": 76,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2146,
-    "timeDay": 2066,
-    "timeWeek": 1906,
-    "timeMonth": 2065,
+    "timeDay": 2432,
+    "timeWeek": 1950,
+    "timeMonth": 2074,
     "timeYear": 2013,
     "dailyMinutesDown": {
       "2025-02-07": 17
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 453,
-    "timeDay": 437,
-    "timeWeek": 379,
-    "timeMonth": 416,
-    "timeYear": 461,
+    "timeDay": 441,
+    "timeWeek": 396,
+    "timeMonth": 420,
+    "timeYear": 462,
     "dailyMinutesDown": {}
   }
 ]
