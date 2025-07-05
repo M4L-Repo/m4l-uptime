@@ -11,10 +11,10 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.96%",
     "time": 911,
-    "timeDay": 1033,
-    "timeWeek": 4230,
-    "timeMonth": 1820,
-    "timeYear": 926,
+    "timeDay": 1013,
+    "timeWeek": 4237,
+    "timeMonth": 1829,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2025-06-26": 76,
       "2024-10-01": 124
@@ -27,17 +27,16 @@
     "slug": "m4-l-wp",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 2314,
-    "timeDay": 2281,
-    "timeWeek": 6678,
-    "timeMonth": 3717,
-    "timeYear": 2170,
+    "timeDay": 2123,
+    "timeWeek": 6667,
+    "timeMonth": 3722,
+    "timeYear": 2171,
     "dailyMinutesDown": {
-      "2025-07-04": 13,
       "2025-06-30": 18,
       "2025-02-07": 17
     }
@@ -54,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
-    "timeDay": 358,
-    "timeWeek": 430,
+    "timeDay": 481,
+    "timeWeek": 436,
     "timeMonth": 416,
-    "timeYear": 459,
+    "timeYear": 458,
     "dailyMinutesDown": {}
   }
 ]
