@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.momsforliberty.org.ico",
     "slug": "m4-l-portal",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.98%",
     "time": 988,
-    "timeDay": 493,
+    "timeDay": 105,
     "timeWeek": 572,
-    "timeMonth": 805,
+    "timeMonth": 806,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2026-08-06": 1
+      "2026-08-06": 126
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/momsforliberty.org.ico",
     "slug": "m4-l-wp",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.98%",
     "time": 3001,
-    "timeDay": 2596,
+    "timeDay": 101,
     "timeWeek": 3605,
-    "timeMonth": 4424,
+    "timeMonth": 4392,
     "timeYear": 3062,
     "dailyMinutesDown": {
-      "2026-08-06": 0
+      "2026-08-06": 126
     }
   },
   {
@@ -45,19 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.momsforliberty.org.ico",
     "slug": "m4-l-staging",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.27%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.97%",
     "time": 765,
-    "timeDay": 553,
+    "timeDay": 104,
     "timeWeek": 639,
     "timeMonth": 809,
     "timeYear": 870,
     "dailyMinutesDown": {
       "2026-01-29": 17,
-      "2026-08-06": 0
+      "2026-08-06": 126
     }
   }
 ]
