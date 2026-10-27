@@ -4,22 +4,23 @@
     "url": "https://portal.momsforliberty.org/accounts/login/",
     "icon": "https://icons.duckduckgo.com/ip3/portal.momsforliberty.org.ico",
     "slug": "m4-l-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "85.75%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "85.74%",
     "uptimeMonth": "96.72%",
     "uptimeYear": "99.43%",
-    "time": 975,
-    "timeDay": 797,
-    "timeWeek": 780,
-    "timeMonth": 861,
-    "timeYear": 881,
+    "time": 973,
+    "timeDay": 112,
+    "timeWeek": 676,
+    "timeMonth": 840,
+    "timeYear": 879,
     "dailyMinutesDown": {
       "2026-08-07": 101,
       "2026-08-06": 1440,
       "2026-10-22": 78,
-      "2026-10-21": 1358
+      "2026-10-21": 1358,
+      "2026-10-27": 1
     }
   },
   {
@@ -27,22 +28,23 @@
     "url": "https://momsforliberty.org/donate-now/",
     "icon": "https://icons.duckduckgo.com/ip3/momsforliberty.org.ico",
     "slug": "m4-l-wp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "85.75%",
     "uptimeMonth": "96.72%",
     "uptimeYear": "99.43%",
-    "time": 3299,
-    "timeDay": 5568,
-    "timeWeek": 4893,
-    "timeMonth": 5232,
-    "timeYear": 3553,
+    "time": 3295,
+    "timeDay": 113,
+    "timeWeek": 4187,
+    "timeMonth": 5053,
+    "timeYear": 3543,
     "dailyMinutesDown": {
       "2026-08-07": 101,
       "2026-08-06": 1439,
       "2026-10-22": 79,
-      "2026-10-21": 1358
+      "2026-10-21": 1358,
+      "2026-10-27": 0
     }
   },
   {
@@ -50,23 +52,24 @@
     "url": "https://staging.momsforliberty.org",
     "icon": "https://icons.duckduckgo.com/ip3/staging.momsforliberty.org.ico",
     "slug": "m4-l-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "85.75%",
     "uptimeMonth": "96.72%",
     "uptimeYear": "99.43%",
-    "time": 720,
-    "timeDay": 289,
-    "timeWeek": 603,
-    "timeMonth": 567,
-    "timeYear": 828,
+    "time": 719,
+    "timeDay": 113,
+    "timeWeek": 542,
+    "timeMonth": 555,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2026-01-29": 17,
       "2026-08-07": 102,
       "2026-08-06": 1439,
       "2026-10-22": 79,
-      "2026-10-21": 1357
+      "2026-10-21": 1357,
+      "2026-10-27": 0
     }
   }
 ]
